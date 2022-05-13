@@ -1,5 +1,5 @@
 {
-    "baseUrl":"your proyect url goes here",
+    "baseUrl":"https://devexpress.github.io/testcafe/example",
     "watchForFileChanges":false,
     "viewportWidth":1000,
     "viewportHeigth":600,
